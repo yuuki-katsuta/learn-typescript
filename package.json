@@ -19,5 +19,8 @@
   "homepage": "https://github.com/yuuki-katsuta/learn-typescript#readme",
   "dependencies": {
     "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "ts-node": "^8.6.2"
   }
 }
