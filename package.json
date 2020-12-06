@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yuuki-katsuta/learn-typescript/issues"
   },
-  "homepage": "https://github.com/yuuki-katsuta/learn-typescript#readme"
+  "homepage": "https://github.com/yuuki-katsuta/learn-typescript#readme",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
 }
