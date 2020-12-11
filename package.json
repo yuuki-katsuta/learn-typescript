@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/yuuki-katsuta/learn-typescript#readme",
   "dependencies": {
+    "axios": "^0.21.0",
     "typescript": "^3.7.5"
   },
   "devDependencies": {
