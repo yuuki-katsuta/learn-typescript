@@ -15,5 +15,5 @@ const covid19Japan: Record<Prefectures, Covid19InfectionInfo> = {
   Tokyo: { kanji_name: "東京", connfirmed_cases: 1960 },
   Chiba: { kanji_name: "千葉", connfirmed_cases: 196 },
   Tottori: { kanji_name: "鳥取", connfirmed_cases: 19 },
-  Shiga: { kanji_name: "鳥取", connfirmed_cases: 19 },
+  Shiga: { kanji_name: "鳥取", connfirmed_cases: 19 },<
 };
